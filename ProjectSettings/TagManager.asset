@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ground
+  - wall
+  - EndLevel
+  - Enemy
+  - NPC
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - BlockingLayer
+  - Units
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 1920641795
+    locked: 0
+  - name: Wall
+    uniqueID: 2350090137
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Enemy BackFront
+    uniqueID: 682196907
+    locked: 0
+  - name: PlayerForeFront
+    uniqueID: 2359769855
+    locked: 0
+  - name: Foreground
+    uniqueID: 603958655
+    locked: 0
